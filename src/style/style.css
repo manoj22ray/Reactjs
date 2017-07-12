@@ -1,0 +1,30 @@
+.listItem{
+    width:50%;
+    font-weight: bold;
+}
+
+.listItem li{
+    border: none;
+}
+.panel-body{
+    margin-top: 20px;
+    background: #ccc;
+}
+.form-control{
+    border: 2px solid #d2b9b9;
+    margin-bottom: 10px;
+}
+.btn-primary,.btn-primary:hover {
+    color: #fff;
+    background-color: #86898c;
+    border-color: #969fa7;
+}
+
+.inputcontainer{
+    background: #615a5a;
+    padding-top: 10px;
+    margin-bottom: 5px;
+}
+.heightcont{
+    height: '600px';
+}
